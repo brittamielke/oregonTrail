@@ -20,7 +20,6 @@
         //return the travelers health after attempting to eat
         eat(): boolean;
 
-
     }
 
     //interface describing attributes and methods a wagon should have
